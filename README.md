@@ -2,10 +2,10 @@
 
 ## 🛠️💼 Professional Highlights
 - **⚙️ DevOps Dynamo**: Mastering the art of seamless integration and automation!  
-  🚀 Previously, as a **Senior DevOps Engineer** at **TATA Consultancy Services**, I:  
-  - 🛡️ Delivered integration solutions on **Microsoft Azure**.  
+  - 🛡️ Delivered integration solutions on **Microsoft Azure**.
+  - 🛡️ Delivered integration solutions on **AWS**.  
   - 🐳 Managed containerized platforms with **Docker** and **Kubernetes**.  
-  - 🌐 Built **Azure infrastructure components** using **Terraform** and **Jenkins**.  
+  - 🌐 Built **Azure && AWS infrastructure components** using **Terraform** and **GitHub Actions** & **Jenkins**.  
 
 - **📚 Lifelong Learner**:  
   🎓 Earned a **Bachelor of Engineering** in **Electronics and Communications** from **R.M.K Engineering College**.  
